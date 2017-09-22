@@ -69,8 +69,7 @@ if (command === "add") {
 		notes.logNote(test);
 	}else{
 		console.log("No esta pe >:v");
-	}
-	
+	}	
 } else if (command === "remove") {
 	console.log(command);
 }else{
